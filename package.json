@@ -1,0 +1,26 @@
+{
+  "name": "mbed-js-mqtt",
+  "version": "1.0.0",
+  "description": " MQTT library for Javascript for Mbed OS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed-zeeshan/mbed-js-mqtt.git"
+  },
+  "keywords": [
+    "mbed",
+    "js",
+    "mqtt",
+    "st",
+    "mbed-os"
+  ],
+  "author": "ST",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syed-zeeshan/mbed-js-mqtt/issues"
+  },
+  "homepage": "https://github.com/syed-zeeshan/mbed-js-mqtt#readme"
+}
